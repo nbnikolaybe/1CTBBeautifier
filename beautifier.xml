@@ -2,11 +2,11 @@
   <ribbon>
     <tabs>
       <tab idMso="TabHome">
-        <group id="UniqueId_1" label="ReportPro Tools">
+        <group id="nbId1" label="ReportPro Tools">
           <button 
-            id="UniqueId_2"
+            id="nbId2"
             label="Beautify 1C TB"
-            onAction="Beautify1CTB"
+            onAction="Beautify"
             imageMso="GanttChartGallery"
             size="large"
           />
